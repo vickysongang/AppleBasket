@@ -1,3 +1,7 @@
+# 效果图
+![点击](https://github.com/vickysongang/AppleBasket/blob/master/src/routes/AppleBasket/assets/AppleBasket.jpeg)
+
+
 # Deprecation Warning
 
 This project was started at the advent of the Redux ecosystem, and was intended to help users get up and running quickly. Since then, tooling and best practices have evolved tremendously. In order to get the most modern experience possible, I recommend checking out something like [create-react-app](https://github.com/facebookincubator/create-react-app) which is supported by many core React and Redux developers.
